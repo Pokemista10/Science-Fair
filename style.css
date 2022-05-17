@@ -1,0 +1,43 @@
+body{
+font-family: monospace;
+    background-image: url(science-fair.jpeg);
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-family: monospace;
+    color: black;
+background-color: white;
+}
+
+.context{
+    color: black;
+    text-align: center;
+    background-color: white;
+}
+
+.img{
+    text-align: center;
+}
+
+.links{
+    text-decoration: underline;
+    color: orange;
+}
+ .link1{
+text-decoration: none;
+background-color: white;
+ }
+
+.link2{
+background-color: white;
+
+}
+
+.link3{
+    background-color: white;
+}
+
+.link4{
+    background-color: white;
+}
